@@ -1,2 +1,2 @@
 # ems-webapp-using-servlet-and-jsp
-This the first EMS webapp using servlet and JSP
+This is the EMS webapp using servlet and JSP
