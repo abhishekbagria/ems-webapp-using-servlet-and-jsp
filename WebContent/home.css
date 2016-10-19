@@ -1,0 +1,143 @@
+@CHARSET "UTF-8";
+@CHARSET "UTF-8";
+
+div.whole {
+	max-width: 530px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: orange;
+	
+	margin: auto;
+	padding: 5px;
+	text-align: center;
+}
+
+div.gif {
+	background-color: orange;
+	max-width: 520px;
+	margin-left: auto;
+	margin-right: auto;
+	line-height: 0.0;
+
+}
+h1{
+	background-color: orange;
+	text-align: center;
+	color: white;
+	font-family: Arial;
+}
+span.c1{
+	background-color: orange;
+	color:grey;
+	font-family: Arial;
+	font-weight: lighter;
+	padding: 5px 0px 10px 91px;
+}
+span.c2{
+	background-color: orange;
+	color:white;
+	font-family: Arial;
+	padding: 5px 91px 10px 0px;	
+}
+
+div.normal {
+	max-width: 490px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: orange;
+	
+	margin: auto;
+	margin-top: 10px;
+	padding: 5px;
+	text-align: center;
+	
+}
+
+button, input {
+	margin: 2px;
+	border-style: none;
+	border-radius: 0px;
+	outline-style: solid;
+	outline-width: 1px	;
+	outline-color: orange;
+	background-color: white;
+}
+button {
+	background-color: white;
+	color: grey;
+}
+
+a.signup{
+	line-height: 2.0;
+	text-decoration: none;
+	color: orange;
+	font-size: 11px;
+	text-align: right;
+}
+
+a.sitex {
+	text-decoration: none;
+	font-family: Arial;
+	color: #444444;
+	font-size: 1em;
+}
+
+a:HOVER {
+		text-decoration: none;
+	color: white;
+	font-size: 1em;
+	text-align: right;
+}
+
+div.footer {
+	width: 86%;
+	background-color: #444444;
+	height: 190px;
+	margin: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-align: center;
+	padding-top: 30px;
+	font-size: 14px;
+	word-spacing: 20px;
+}
+
+a.site {
+	text-decoration: none;
+	font-family: Arial;
+	color: #dddddd;
+	background-color: #444444;
+	font-size: 1em;
+	line-height: 1.0;
+	word-spacing: 1px;
+}
+table, th, td {
+	max-width: 480px; 
+	border-style: solid;
+	border-width: 1px;
+	border-color: orange;
+	border-collapse: collapse;
+	
+	margin: auto;
+	margin-top: 5px;
+	padding: 5px;
+	text-align: center;
+}
+div.actions {
+	margin: auto;
+	
+	margin-top: 20px;
+	padding: 5px;
+	text-align: center;
+}
+textarea {
+	max-width: 173px;
+	margin: 2px;
+	border-style: none;
+	border-radius: 0px;
+	outline-style: solid;
+	outline-width: 1px	;
+	outline-color: orange;
+	background-color: white;
+	
+}
